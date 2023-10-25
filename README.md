@@ -8,6 +8,9 @@ Ellis Porter
 Felix Egwuagu 
 Kidus Gorfe 
 
+Slideshow URL:
+https://www.canva.com/design/DAFxv8BJkGs/_-jpkJGa1Ygb8YwOoEC4CQ/view?utm_content=DAFxv8BJkGs&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 Project Description/Outline:
 
 We aim to analyze a dataset obtained from Kaggle, containing information about forest fires in Montesinho Park, Portugal. This dataset encompasses a wide range of data, including, but not limited to, the affected area, weather conditions, and the collection month.
